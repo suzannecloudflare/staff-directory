@@ -1,0 +1,11 @@
+name = "staff-directory"
+compatibility_date = "2023-12-01"
+
+[[r2_buckets]]
+binding = "staffdb"
+bucket_name = "staffdb"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "staffdb"
+database_id = "67107389-6447-4b36-afee-0821318608a0"
